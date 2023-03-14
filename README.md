@@ -1,5 +1,5 @@
 <h1 align="center">
-کارگاه برنامه‌نویسی وب دانشگاه صنعتی شریف
+کارگاه برنامه‌سازی وب دانشگاه صنعتی شریف
 </h1>
 
 
@@ -104,6 +104,8 @@
 - [عرشیا اخوان](https://github.com/ArshiAAkhavan)
 - [ابوالفضل اسد](https://github.com/abolfazlasad)
 - [رضا امینی‌مجد](https://github.com/rezaaminimajd)
+- [مهدی تیموری انار](https://github.com/mahditeymoorianar)
+- [حسام اثنی عشری](https://github.com/hessamasna)
 - [اسماعیل پاهنگ](https://github.com/esmaeil1377)
 - [علی پورقاسمی](https://github.com/sh3rLock3d)
 - [مبینا پورنعمت](https://github.com/Mobinapournemat)
@@ -125,23 +127,31 @@
 - [آتنا ساقی](https://github.com/atenasadat)
 - [احمد سلیمی](https://github.com/ahmadsalimi)
 - [علی‌رضا شاطری](https://github.com/ShAlireza)
+- [شایان شعبان زاده](https://github.com/Shayan-Shabanzadeh)
 - [مهرداد صابری](https://github.com/Sa1378)
 - [پرهام صارمی](https://github.com/parhamsaremi)
 - [سپهر صفری](https://github.com/sepehrs1378)
 - [علیرضا ضیائی](https://github.com/alrz1999)
 - [محمدرضا عبدی](https://github.com/baharkhd)
+- [مهدی عبدی](https://github.com/itsmehdiabdi)
 - [محمد فتاح](https://github.com/mohammad-fattah)
 - [عرفان فرهادی](https://github.com/farhadi-erfan)
+- [امیررضا قاسمی ویسی](https://github.com/amirzgh)
 - [مصطفی قدیمی](https://github.com/mostafaghadimi)
 - [محمدحسین قیصریه](https://github.com/mhgheisarieh)
+- [محمدامین لطفی اوریمی](https://github.com/aminlotfi)
 - [امیر معینی](https://github.com/amir-mi)
 - [سید محمد پوریا ممتاز اصفهانی](https://github.com/pourya-momtaz)
 - [امیرمهدی نامجو](https://github.com/titansarus)
 - [امیرحسین نقی رازلیقی](https://github.com/AmirHossein-nr)
+- [عطا رحیم زاده](https://github.com/atarhz)
 - [محمدهومان کشوری](https://github.com/bigwhoman)
 - [سجاد فقفور مغربی](https://github.com/sfmqrb)
 - [سیدپارسا نشایی](https://github.com/spneshaei)
-
+- [آرش یادگاری](https://github.com/Arash1381-y)
+- [ایمان محمدی](https://github.com/Imanm02)
+- [هستی کریمی](https://github.com/HastiKarimi)
+    
 # نحوه مشارکت
 
 - ابتدا باید این ریپازیتوری را fork کنید.
